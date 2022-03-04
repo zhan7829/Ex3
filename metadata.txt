@@ -1,0 +1,8 @@
+ip-172-31-24-170.ec2.internal
+{
+  "Code" : "Success",
+  "LastUpdated" : "2022-03-04T21:18:38Z",
+  "InstanceProfileArn" : "arn:aws:iam::574131499901:instance-profile/LabInstanceProfile",
+  "InstanceProfileId" : "AIPAYLLHHON632BNR73CV"
+}
+webservers
